@@ -1,4 +1,4 @@
-# Template MERN project with node-server settings
+# Template MERN project with node-server setting (proxy on packege.json)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
