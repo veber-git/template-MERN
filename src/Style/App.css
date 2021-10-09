@@ -1,0 +1,39 @@
+.wrapperMain {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.hidden {
+  display: none;
+}
+
+ul {
+  list-style: none;
+}
+header,
+footer {
+  background-color: #ccc;
+}
+
+.header,
+.footer {
+  padding: 0 10px;
+}
+
+.contentBlock {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.sidebarBlock {
+  width: 150px;
+  margin-right: 20px;
+  padding: 10px;
+  background-color: #bbb;
+}
+
+.content {
+  padding: 10px;
+  background-color: #bbb;
+  flex-grow: 1;
+}

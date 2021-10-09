@@ -1,0 +1,7 @@
+.horisontalList {
+  display: flex;
+}
+
+.horisontalItem {
+  margin-right: 50px;
+}
